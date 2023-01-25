@@ -7,4 +7,4 @@ UKROC Guidelines (https://www.ukroc.com/):
 - 42 to 45 seconds
 - 850ft / 260 meters height goal
 
-To download .ork file - click on file ->  press "download"
+To download .ork file - click on file name ->  press "download"
