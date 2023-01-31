@@ -1,5 +1,5 @@
-# duckRocket
-UKROC Guidelines (https://www.ukroc.com/):
+# duckRocket 
+UKROC Guidelines (https://www.ukroc.com/wp-content/uploads/2022/08/UKRoC-Mission-2023.pdf) :
 - less than 650g
 - more than 65cm
 - 55 to 61g egg
